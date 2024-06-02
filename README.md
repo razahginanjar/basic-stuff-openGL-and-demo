@@ -1,5 +1,6 @@
 # basic-stuff-openGL-and-demo
- 
+
+ -you need to install vs comunnity or you can used it with ws code
 -you need to include all:
 src;src\renderer;$(SolutionDir)defendencies\stbi;$(SolutionDir)defendencies\glew-2.1.0\include;$(SolutionDir)defendencies\g-truc-glm-33b0eb9\include;$(SolutionDir)defendencies\imgui-master\include;$(SolutionDir)defendencies\glfw-3.4.bin.WIN32\include
 
