@@ -8,6 +8,7 @@ src;src\renderer;$(SolutionDir)defendencies\stbi;$(SolutionDir)defendencies\glew
 -you need to add in preprocessor:
 GLEW_STATIC;
 -you need to add lib:
-$(SolutionDir)defendencies\glfw-3.4.bin.WIN32\lib-vc2022;$(SolutionDir)defendencies\glew-2.1.0\lib\Release\Win32;%(AdditionalLibraryDirectories)
+$(SolutionDir)defendencies\glfw-3.4.bin.WIN32\lib-vc2022;
+$(SolutionDir)defendencies\glew-2.1.0\lib\Release\Win32;
 - you need add dependencies:
 glfw3.lib;Opengl32.lib;User32.lib;Gdi32.lib;Shell32.lib;glew32s.lib;
